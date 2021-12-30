@@ -38,10 +38,10 @@ a:hover{
   background: transparent;
   color: #2ecc71;
 
-  border-radius: 30px;
+  border-radius: 10px;
   font-size: 90%;
   letter-spacing: 1px;
-  line-height:10px ;
+  line-height:23px ;
 }
 
 .icon{
